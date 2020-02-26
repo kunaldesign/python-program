@@ -15,5 +15,6 @@
         "."
     ],
     "python.pythonPath": "C:\\Python27\\python.exe",
-    "python.testing.promptToConfigure": false
+    "python.testing.promptToConfigure": false,
+    "cSpell.language": "en,en-US"
 }
